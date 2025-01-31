@@ -5,4 +5,4 @@
 3. cd into the sample app
 4. run npm install
 5. run the app with npx expo install
-6. Reference the Implementation markdown file for instructions for building the app.
+6. Reference the IMPLEMENTATION_GUIDE markdown file for instructions for building the app.
